@@ -1,0 +1,14 @@
+@charset "utf-8";
+body header {
+    color: #16461E;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #C7BFBF;
+}
+body article {
+    background-color: #A6E8AA;
+    color: #535353;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
